@@ -13,9 +13,13 @@ My next objective was to create a mentorship-eligibility table that holds the cu
 This table that holds the employees who are eligible to participate in a mentorship program. This table holds 1,549 employees who are eligible to participate in the mentorship program.
 
 Analysis of the queries performed:
+
 -About 30 percent of total workforce is about to retire.
+
 -Almost 20 percent of Senior Engineer and Staff are about to retire.
+
 -Two of the 9 Department Managers are about to retire. 
+
 -Only 1549 of employees eligible to participare in mentorship program. 
 
 
