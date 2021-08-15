@@ -26,7 +26,10 @@ There are 90,398 employees eligible to retire.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 From the tables listed you can see that there is not enough employees to fill the roles of each department in the mentorship program.
-RETIRING EMPLOYEES BY DEPT                                             ![mentor_elig_emp_dept](https://user-images.githubusercontent.com/86200136/129485019-62bd9491-ab51-41a1-8e70-ee9b090f2317.png)
+RETIRING EMPLOYEES BY DEPT
+![retiring_table](https://user-images.githubusercontent.com/86200136/129485058-6968ce4b-9d8f-45e2-bf8d-966665f54e4b.png)
 MENTORSHIP ELIGIBLE EMPLOYEES BY DEPT
-![retiring_table](https://user-images.githubusercontent.com
-/86200136/129484972-5cb67c30-299d-4673-86ec-d32f0c65076f.png)
+![mentor_elig_emp_dept](https://user-images.githubusercontent.com/86200136/129485045-308d1ecc-2c97-463b-a7cf-3fd71bac2542.png)
+
+
+
